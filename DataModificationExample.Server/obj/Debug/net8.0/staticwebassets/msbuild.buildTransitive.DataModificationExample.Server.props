@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/DataModificationExample.Server.props" />
-</Project>
