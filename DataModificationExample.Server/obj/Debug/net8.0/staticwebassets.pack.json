@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.Server/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DataModificationExample.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DataModificationExample.Server.props",
+      "PackagePath": "build\\DataModificationExample.Server.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DataModificationExample.Server.props",
+      "PackagePath": "buildMultiTargeting\\DataModificationExample.Server.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DataModificationExample.Server.props",
+      "PackagePath": "buildTransitive\\DataModificationExample.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

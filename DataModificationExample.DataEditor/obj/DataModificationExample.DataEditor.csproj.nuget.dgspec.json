@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.DataEditor/DataModificationExample.DataEditor.csproj": {}
+  },
+  "projects": {
+    "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.DataEditor/DataModificationExample.DataEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.DataEditor/DataModificationExample.DataEditor.csproj",
+        "projectName": "DataModificationExample.DataEditor",
+        "projectPath": "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.DataEditor/DataModificationExample.DataEditor.csproj",
+        "packagesPath": "/Users/eliburnes/.nuget/packages/",
+        "outputPath": "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.DataEditor/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/eliburnes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.Server/DataModificationExample.Server.csproj": {
+                "projectPath": "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.Server/DataModificationExample.Server.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.Server/DataModificationExample.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.Server/DataModificationExample.Server.csproj",
+        "projectName": "DataModificationExample.Server",
+        "projectPath": "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.Server/DataModificationExample.Server.csproj",
+        "packagesPath": "/Users/eliburnes/.nuget/packages/",
+        "outputPath": "/Users/eliburnes/Projects/typo_projects/typo_v1/examples/DataModificationExample/DataModificationExample.Server/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/eliburnes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "viwj0LcsBGJffH3jrJ1ts91DN8/bndLAhPybHufKWbo=",
+  "Source": "DataModificationExample.Server",
+  "BasePath": "_content/DataModificationExample.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
