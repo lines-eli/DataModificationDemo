@@ -1,6 +1,6 @@
-# Data Modification Example
+# Data Modification Demo
 
-A standalone example demonstrating the data modification pattern with real PostgreSQL transactions, dry-run support, and SSE streaming.
+A standalone example demonstrating our data modification pattern with Postgre transactions, dry-run support, and SSE streaming.
 
 ## Prerequisites
 
